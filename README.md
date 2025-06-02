@@ -1,4 +1,6 @@
 Pandas Data Analysis & Manipulation Practice
+
+
 This repository contains a comprehensive set of examples and exercises demonstrating the power and flexibility of the Pandas library in Python. It’s intended as a practical guide for learning and revisiting key data manipulation techniques commonly used in data science and analysis workflows.
 
 📌 Topics Covered
